@@ -98,7 +98,7 @@ Map.prototype = {
 	"map2": [],
 	"chars2": [],
 	
-	"image_file_dir": '../hito1/'
+	"image_file_dir": '../img/'
 };
 
 /**
