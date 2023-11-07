@@ -29,7 +29,7 @@ Map.prototype = {
 	"links": {
 		"question": "Q1-2",
 		"previous": "q1-1",
-		"next": "q1-3"
+		"next": "q2-1"
 	},
 	"robot": {
 		"type": 0,
